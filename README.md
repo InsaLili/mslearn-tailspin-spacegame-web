@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/lilitongwork/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/InsaLili.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/lilitongwork/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/lilitongabb/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/lilitongabb/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
